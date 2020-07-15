@@ -10,4 +10,5 @@ public class LongndApplication {
         SpringApplication.run(LongndApplication.class, args);
     }
 
+
 }
